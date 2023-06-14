@@ -1,0 +1,12 @@
+p{
+    color:red;
+}
+h1{
+    color:#777abc;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.azul{
+    font-weight: bold;
+    color:green;
+}

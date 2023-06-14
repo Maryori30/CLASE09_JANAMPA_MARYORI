@@ -1,0 +1,36 @@
+*{
+    color:#555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    padding-left: 10px;
+    padding-right:10px;
+    
+}
+.rojo{
+    color:#c30;
+    text-decoration:underline;
+    font-size:15px;
+}
+#primero{
+    color:rgb(59, 141, 224)
+}
+.azul{
+    color:#369;
+    background-color:#FFFFCC;
+    font-style: italic;
+}
+#negrita{
+    font-weight: bold;
+}
+#cursiva{
+    font-style: italic;
+    color:#555;
+}
+#color{
+    color:#369;
+}
+.resaltado{
+    color:yellow;
+    background-color: black;
+    font-style:italic;
+}
